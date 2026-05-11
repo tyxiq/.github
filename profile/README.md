@@ -18,18 +18,27 @@ Because of this, the development is long.
 
 ## Developers
 
-### crlskifu
+<div align="center">
 
-<a href="https://t.me/crlskifu">
-  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
-</a>
+<table>
+<tr>
+<td align="center"><b>crlskifu</b></td>
+<td align="center"><b>mikoto</b></td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center">
+  <a href="https://t.me/crlskifu">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
+  </a>
+</td>
+<td align="center">
+  <a href="https://t.me/mikot0sanix">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
+  </a>
+</td>
+</tr>
 
-### mikoto
-
-<a href="https://t.me/mikot0sanix">
-  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram">
-</a>
+</table>
 
 </div>
